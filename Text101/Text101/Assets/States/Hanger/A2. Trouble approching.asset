@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A2. Trouble approching
+  m_EditorClassIdentifier: 
+  storyText: 'One of the men from the ship''s crew, hurried down the stairs to the
+    captain''s quarters, the man was very terrified.
+
+
+    The man  shouted: "Captain
+    Kai!! Captain Kai!! Wake UP!!! we are under attack !
+
+
+    1. Get up from bed
+    and answer your crew member
+
+
+    2. Stay sleeping'
+  nextStates:
+  - {fileID: 11400000, guid: 54eb8177dd2e15546aa40311b037f981, type: 2}
+  - {fileID: 11400000, guid: 5009e3cdf1498ab45a5ea7ff84873827, type: 2}

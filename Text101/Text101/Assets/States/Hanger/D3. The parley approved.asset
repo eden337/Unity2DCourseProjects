@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: D3. The parley approved
+  m_EditorClassIdentifier: 
+  storyText: "\"Fair enough, bring your precious belonging and We in return, will
+    bring you the key for the our ancient secret\" the villager said.\r\n\r\nThe
+    captain went back to retrieve his treasure, unfortunately for him, he was alone,
+    his crew stayed back to keep lookout. and he found out that the rest of the crew
+    were captured by the galactic fleet.\r\n\r\nThe captain rushed back to the village
+    to call for backup  \r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: a107cbbf57103fc49ab31c0d388b3f97, type: 2}

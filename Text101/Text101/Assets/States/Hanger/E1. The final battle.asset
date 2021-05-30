@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: E1. The final battle
+  m_EditorClassIdentifier: 
+  storyText: "\"General Zonk!!! Where are my men?! \" the captain shouted.\r\nin
+    front of him was standing no other then his former commending officer, General
+    Zonk.\r\n\"Well, well, well if it isn't the shark bait who murdered my men?!\"
+    \r\n \"Zonk!!! Release my men!\" the captain shouted and pulled out his gun and
+    aimed at Zonk, and the rest of the crew aimed at Zonk's men as well\r.\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: ba335d5832bc76945a0a969de2051cff, type: 2}

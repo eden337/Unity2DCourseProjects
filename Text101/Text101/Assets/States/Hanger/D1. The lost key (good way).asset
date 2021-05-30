@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: D1. The lost key (good way)
+  m_EditorClassIdentifier: 
+  storyText: "\"What can I offer you?\" said the captain?\r\n\r\nThe alien villager 
+    answered, \"I want your soul and all your belongings, you shall be mine, all
+    of you!\" \r\n\r\nThe captain says:\r\n\r\n1. \"Hell no!\", and the captain and
+    his crew unsheathed their swords. \r\n\r\n2. \"I will bring you all of my precious
+    treasure but not my soul\""
+  nextStates:
+  - {fileID: 11400000, guid: f4689f845c38e434999e3e4a7488f135, type: 2}
+  - {fileID: 11400000, guid: 0ec4de317ef88ad4ea797b59008d9b89, type: 2}

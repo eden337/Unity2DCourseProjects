@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: F1. Epilogue
+  m_EditorClassIdentifier: 
+  storyText: "The injured crew, went aboard the ship, they lost a lot of their friends
+    and comrades, they were sad, but the captain just realized that he didn't needed
+    the lost treasure, he doesn't need the fame and fortune, and he doesn't the to
+    live for infinity, he just needed his crew, his ship, and his life full of adventures
+    with the people that he most care about\r\n\r\n\"Men, let's go celebrate the
+    the life, and go for more adventures... together!\" \r\n\r\n1. Thanks for playing,
+    press \"1\" to restart.\r\n "
+  nextStates:
+  - {fileID: 11400000, guid: fdfe27cc19f888847a1cd7b813fa71e4, type: 2}

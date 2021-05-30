@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A9.Liar path
+  m_EditorClassIdentifier: 
+  storyText: '"Wha'' do ye wants from me?! I dunno a thin''!" said the captain,
+
+
+    and
+    Chutul shouted back: " You dare to lie to me?! your old comrade from the old
+    days?!  How DARE YOU!!!"
+
+
+    The captains answer:
+
+
+    1. "Ye got th'' wrong
+    scallywag..."
+
+
+    2. "If I got this map that ye''re natterin'' about, why do
+    ye reckon I shall share it wit'' ye! ye betrayed me !"'
+  nextStates:
+  - {fileID: 11400000, guid: ebe75594cb3c7e14ca0333f0ba0295d4, type: 2}
+  - {fileID: 11400000, guid: ebe75594cb3c7e14ca0333f0ba0295d4, type: 2}

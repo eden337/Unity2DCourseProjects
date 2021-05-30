@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A1.A bad hangover
+  m_EditorClassIdentifier: 
+  storyText: "The captain of the Katchin Diamond ship was partying all night long
+    with the ladies of planet ER-505 in Galaxy GK-152, a found himself in the morning
+    really drunk and got a terrible Hangover from the party. \r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: e47f190bd035e5346a4924f3cff0173b, type: 2}

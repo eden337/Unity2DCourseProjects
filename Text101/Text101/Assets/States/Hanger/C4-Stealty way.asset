@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: C4-Stealty way
+  m_EditorClassIdentifier: 
+  storyText: 'The captain and the crew reached a tomb of an ancient elder of this
+    village, the captain saw an engraving on it, but he couldn''t figure out what
+    was written over it.
+
+
+    "Men, bring me the translator!" said the captain,
+    he scanned the engraving and found a very troubling phrase.
+
+
+    "To lose is
+    to find, and find is to lose, if you want to enter the secret chamber, you shall
+    lose what you hold dear"
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 796a149448625ad488379f1e2a79e04e, type: 2}

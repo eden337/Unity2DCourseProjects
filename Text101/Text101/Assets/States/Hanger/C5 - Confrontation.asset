@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: C5 - Confrontation
+  m_EditorClassIdentifier: 
+  storyText: "\"Sfgas, Gsagw!\" the villagers said, the captain didn't understood
+    any of it.\r\nThe aliens lifted their weapons, and kept southing: \"Sfgas, Gsagw!\"\r\n\"Captain?!
+    they are going send us to the fishes, what's your order?!\"\r\n\r\n1. \"Men,
+    Take out your weapons, and prepare for battle!\"\r\n\r\n2. \"Wait a minute, I
+    got a translation device, let me use it, cover me!\"\r"
+  nextStates:
+  - {fileID: 11400000, guid: f4689f845c38e434999e3e4a7488f135, type: 2}
+  - {fileID: 11400000, guid: 91e2213462a82f44383444c39e7e3109, type: 2}

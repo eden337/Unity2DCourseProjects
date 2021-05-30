@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: B3.Crash landing (cont)
+  m_EditorClassIdentifier: 
+  storyText: " The crew went on deck and fired from a large laser beam blast, and
+    they tried to hit the ship, while the captain tried to maneuver the ship in order
+    to avoid the crash.\r\n\r\nAnd one of the crew member succeeded to finish the
+    militant ship off, \" Got 'em Cap!'\r\n\r\n\"Great Work Lads!\" the captain shouted,
+    but from all the joy they have not noticed for a one important thing... \r\n\r\n1.
+    Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 5cccab884b34b5d49bf8445ad664a09e, type: 2}

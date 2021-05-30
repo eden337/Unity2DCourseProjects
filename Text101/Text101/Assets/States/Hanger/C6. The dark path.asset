@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: C6. The dark path
+  m_EditorClassIdentifier: 
+  storyText: 'And so the battle began, it was a real massacre, the crew lost a formidable
+    number of men, but we won, we conquered the area.
+
+
+    "Ha Ha Ha, nothing will
+    stand in my way for immortality, NOTHING!", the captain said, and he added: "Well
+    lads, Let''s continue our search"
+
+    The captain and the crew reached a tomb
+    of an ancient elder of this village, the captain saw an engraving on it, but
+    he couldn''t figure out what was written over it.
+
+
+    1. "Bring me the translator!"'
+  nextStates:
+  - {fileID: 11400000, guid: 9a1bc81ce38373b4b8c72d7b3ff68f14, type: 2}

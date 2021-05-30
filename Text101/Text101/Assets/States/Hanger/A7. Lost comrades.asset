@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A7. Lost comrades
+  m_EditorClassIdentifier: 
+  storyText: 'General Chutul noticed the captain and shout: "Hey scallywag, Get over
+    here! I got a warrant against your!"
+
+    "Ahoy, matey... " said the captain
+    with great sarcasm.
+
+    Chutul: " Where is it?! Where is the map!?!
+
+    what
+    the captain will do?
+
+
+    1. "I don''t know what you are talking about mate"
+
+    2."
+    You will never get my booty, you shark bait!"'
+  nextStates:
+  - {fileID: 11400000, guid: e00f9dc566126054a8383480a7bac894, type: 2}
+  - {fileID: 11400000, guid: 771c3ebceb129e94c87ee065aef731b5, type: 2}

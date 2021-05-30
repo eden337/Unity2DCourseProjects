@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A14. Liar path (cont)
+  m_EditorClassIdentifier: 
+  storyText: "Chutul charging for attack, and the fight between him and the captain
+    is intensified.\r\n\"ye will ne'er get from here alive!\" the captains! shout
+    and then \r\nChutul lift his sword up in the air, and slashed really hard downwards
+    to hit to captain\r\n\r\nOn the same second:\r\n\r\n1. Counter attack with your
+    sword \r\n\r\n2. Dodge and yell \"Ye will ne'er get me map!\" and escape"
+  nextStates:
+  - {fileID: 11400000, guid: f6995c81d12176a4aa746a5d87ae5433, type: 2}
+  - {fileID: 11400000, guid: 5263d4e3ec6985e4588d0b118736371d, type: 2}

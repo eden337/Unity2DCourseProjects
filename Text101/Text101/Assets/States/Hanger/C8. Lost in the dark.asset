@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: C8. Lost in the dark
+  m_EditorClassIdentifier: 
+  storyText: '"Men, bring me the translator!" said the captain, he scanned the engraving
+    and found a very troubling phrase.
+
+
+    "To lose is to find, and find is to
+    lose, if you want to enter the secret chamber, you shall lose what you hold dear"
+
+
+    What
+    should the captain do?
+
+
+    1. sacrifice his men and personal treasure.
+
+
+    2.
+    Give up and go back to the ship'
+  nextStates:
+  - {fileID: 11400000, guid: 970c83f5060cad24596c20aaa545a024, type: 2}
+  - {fileID: 11400000, guid: 879b7fdf7d462bf44b3b71291fa0c7ed, type: 2}

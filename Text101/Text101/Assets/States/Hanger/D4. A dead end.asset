@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: D4. A dead end
+  m_EditorClassIdentifier: 
+  storyText: 'Captain Kai walked in with anger and pain in his eyes, he walked through
+    the narrow paths of the secret chamber, in the end of the road he saw a fountain,
+    and went closer and closer to it.
+
+    
+
+    He watched over the fountain,
+    the water smelled terrible, and it looked like something is wrong here. but the
+    captain was sure though that it really was the secret to immortality.
+
+    
+
+    1.
+    Drink from the fountain...'
+  nextStates:
+  - {fileID: 11400000, guid: 5009e3cdf1498ab45a5ea7ff84873827, type: 2}

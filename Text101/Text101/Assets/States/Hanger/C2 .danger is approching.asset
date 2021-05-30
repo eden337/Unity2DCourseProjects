@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: C2 .danger is approching
+  m_EditorClassIdentifier: 
+  storyText: 'The captain and his crew, walked through the majestic forest of the
+    planet, they were trees as high as a mountain with red-ish leaves, flowers all
+    around the ground with all colors in the color spectrum, singing alien birds
+    and tiny unknown insects.
+
+
+    This planet looked very peaceful
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 6a9147b61893c6d4696078bc6dc4a7e7, type: 2}

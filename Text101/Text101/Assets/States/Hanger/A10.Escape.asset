@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A10.Escape
+  m_EditorClassIdentifier: 
+  storyText: 'General Chutul noticed the captain and shout: "get o''er here!!!"
+
+
+    what
+    the captain do next?
+
+
+    1. Go hide in your room under your bed
+
+
+    2. Hide
+    behind your men. '
+  nextStates:
+  - {fileID: 11400000, guid: fe05bd6e09e7d964c9baec843e7831cd, type: 2}
+  - {fileID: 11400000, guid: ee161e15d5bb5e14286a7c7bebdaccde, type: 2}

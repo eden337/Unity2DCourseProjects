@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: B5.Smooth crash
+  m_EditorClassIdentifier: 
+  storyText: "\"Ahhhhhhhhh!!!!\" the captain tries his best to pull up the ship!\r\nafter
+    a couple of miliseconds, the ship touched the ground, and looks like it bounced
+    up and down from the ground until it stopped.\r\n\r\n\"We are gonna meet our
+    doom!\" , all the crew member shouted ,\r\nuntil the ship stopped at once. \r\n\r\nThe
+    crew went down from the ship, and kissed the ground for being still alive!\r\n\r\n1.
+    Continue"
+  nextStates:
+  - {fileID: 11400000, guid: d208c4e4b5d58734582254ea54e94cf9, type: 2}

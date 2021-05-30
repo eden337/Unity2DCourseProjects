@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A0.Intro
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to a world of pirates, laser beams, and swashbuckling adventure.\n\nYou
+    are Captain Kai, the legendary pirate from a galaxy far far away.\n\nAt each
+    stage, you'll be asked to push a key on the keyboard, \nfor example 1\\2\\3.
+    Push 'q' to quit.\n\nEnjoy and press \"1\" to begin :)"
+  nextStates:
+  - {fileID: 11400000, guid: 19e3b05b41c42dc49b2fbb7719784cea, type: 2}

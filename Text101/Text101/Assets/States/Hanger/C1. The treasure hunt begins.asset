@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: C1. The treasure hunt begins
+  m_EditorClassIdentifier: 
+  storyText: '"Lad! we arrived!" the captain said, and all of the crew were cheering
+    for the all mighty captain, because of him all of them are still alive. but the
+    ship has been damaged severely.
+
+
+    "We are going to split up lads! I need
+    few men to come with me to find to booty!"  the men agreed to the captain''s
+    offer.
+
+
+    and the treasure hunt crew started moving.
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: ece998d4a6dfc784daa2f15ce2ca9b06, type: 2}

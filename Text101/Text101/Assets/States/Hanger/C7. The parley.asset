@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: C7. The parley
+  m_EditorClassIdentifier: 
+  storyText: "\"GET OUT!!! IT IS A FORBBIDDEN PLACE\"  the translator said.\r\n\r\nWhat
+    will the captain say?\r\n\r\n1. \"Give me the treasure! Right Now!\r\n\r\n2.\"We
+    are men of peace, you shouldn't be afraid, we will not hurt you...Badly...\"
+    \r\n\r\n3.\"We come in peace, we will make a bargain\"\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: f4689f845c38e434999e3e4a7488f135, type: 2}
+  - {fileID: 11400000, guid: f4689f845c38e434999e3e4a7488f135, type: 2}
+  - {fileID: 11400000, guid: 879b7fdf7d462bf44b3b71291fa0c7ed, type: 2}

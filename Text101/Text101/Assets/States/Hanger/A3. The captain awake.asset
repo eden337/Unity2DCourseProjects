@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479e8b73183ef4342998d73e4ffc32ce, type: 3}
+  m_Name: A3. The captain awake
+  m_EditorClassIdentifier: 
+  storyText: "\"What ?! What happened lad?!\" the captain shouted, \r\n\"We under
+    attack!!! The Naval fleet of planet EZ-255 hijacked the ship!!! they are searching
+    for the lost treasure which will turn you immortal!!! and they know that you
+    know something captain!\" the crew member said \r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: c13fc63608d52324892ff63a89e38311, type: 2}
